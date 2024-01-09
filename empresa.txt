@@ -2,3 +2,6 @@ microsoft
 empresa ficticia
 Cinema 
 Shopping
+curso git
+youtube
+instagram
